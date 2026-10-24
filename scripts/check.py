@@ -18,8 +18,9 @@ with zipfile.ZipFile(R/'downloads/social-conversation.zip') as z:
  assert z.testzip() is None
  assert len(z.namelist())==21
  assert 'social-conversation/SKILL.md' in z.namelist()
+assert (R/'downloads/social-playbook.pdf').read_bytes().startswith(b'%PDF-')
 for f in R.rglob('*'):
- if f.is_file() and '.git' not in f.parts and f.suffix!='.zip':
+ if f.is_file() and '.git' not in f.parts and f.suffix not in {'.zip','.pdf'}:
   text=f.read_text()
   assert not re.search(r'(ghp_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,}|sk-[A-Za-z0-9]{30,}|/Use[r]s/)',text),f
 print('PASS: 151 unique scenarios, 18 topics, 56 sourced / 95 original, 19 sources, downloads and privacy scan')

@@ -8,7 +8,11 @@
 
 这里把难开口的问题拆成：**先确认什么 → 第一句怎么说 → 被反问后怎么接 → 接下来做什么 → 哪些情况不能硬套**。
 
-[在线打开指南](https://zengziyu1312007-rgb.github.io/social-playbook/) · [阅读完整指南](GUIDE.md) · [下载 Skill](downloads/social-conversation.zip) · [查看来源](SOURCES.md)
+[在线打开指南](https://zengziyu1312007-rgb.github.io/social-playbook/) · [下载完整 PDF](downloads/social-playbook.pdf) · [阅读文字版](GUIDE.md) · [下载 Skill](downloads/social-conversation.zip) · [查看来源](SOURCES.md)
+
+## 用 PDF 提问
+
+下载 167 页的完整 PDF，上传到豆包等支持文件的对话工具。说明实际处境，请它找对应场景，给出第一句，并根据对方的追问继续练习。PDF 含 151 个场景、可点击目录和参考资料。
 
 ## 使用网页
 
