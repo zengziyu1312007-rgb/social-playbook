@@ -1,0 +1,146 @@
+[
+  {
+    "id": "S01",
+    "title": "HSE：工作压力管理标准",
+    "url": "https://www.hse.gov.uk/stress/standards/overview.htm",
+    "type": "机构资料",
+    "verification": "已读正文",
+    "scope": "只参考工作量、角色、支持等组织管理维度；场景和话术为独立编写。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S02",
+    "title": "Acas：绩效评估",
+    "url": "https://www.acas.org.uk/performance-management",
+    "type": "机构资料",
+    "verification": "已读正文",
+    "scope": "参考具体目标、持续反馈与书面记录原则。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S03",
+    "title": "Acas：安排入职引导",
+    "url": "https://www.acas.org.uk/inductions/planning-an-induction-programme",
+    "type": "机构资料",
+    "verification": "已读正文",
+    "scope": "参考入职计划、工具、支持人与任务安排。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S04",
+    "title": "Acas：职场霸凌",
+    "url": "https://www.acas.org.uk/bullying-at-work",
+    "type": "机构资料",
+    "verification": "已读正文",
+    "scope": "参考不受欢迎的羞辱、排斥等行为类型，不作个案法律定性。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S05",
+    "title": "Acas：处理员工提出的问题",
+    "url": "https://www.acas.org.uk/dealing-with-a-problem-raised-by-an-employee",
+    "type": "机构资料",
+    "verification": "已读正文",
+    "scope": "参考认真听取问题、明确事实与处理流程。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S06",
+    "title": "Acas：远程与混合办公请求",
+    "url": "https://www.acas.org.uk/requests-for-home-and-hybrid-working",
+    "type": "机构资料",
+    "verification": "已读正文",
+    "scope": "只参考协商安排与确认内部政策；具体场景为编辑延伸。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S07",
+    "title": "Acas：如何提出离职",
+    "url": "https://www.acas.org.uk/resignation/how-to-resign",
+    "type": "机构资料",
+    "verification": "已读正文",
+    "scope": "只参考书面沟通与交接安排，不套用英国通知期。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S08",
+    "title": "上海人社：考勤记录与加班争议案例",
+    "url": "https://rsj.sh.gov.cn/tdzbzwz_17591/20201209/t0035_1396729.html",
+    "type": "公开案例",
+    "verification": "已读正文",
+    "scope": "2020年历史案例，用于提醒区分出勤、工作内容与安排，不代表当前普遍裁决。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S09",
+    "title": "最高法：妇女权益保护典型案例",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/390531.html",
+    "type": "公开案例",
+    "verification": "已读正文",
+    "scope": "2023年发布，参考其中职场性骚扰议题；投诉流程与话术为编辑建议。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S10",
+    "title": "Reddit：同事在团队中拿走我的创意署名",
+    "url": "https://www.reddit.com/r/Workproblems/comments/1xcbi0z/coworker_keeps_taking_credit_for_my_ideas_in_team/",
+    "type": "社区讨论",
+    "verification": "已读正文",
+    "scope": "未经独立核实的个人叙述，仅作为问题线索，不证明事实或建议有效性。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S11",
+    "title": "Ask a Manager：应对微观管理",
+    "url": "https://www.askamanager.org/2008/09/how-to-deal-with-micromanager.html",
+    "type": "问答线索",
+    "verification": "仅检索摘要",
+    "scope": "正文访问受限；仅据摘要确认存在该话题，不引用作者具体建议。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S12",
+    "title": "Ask a Manager：面对负面反馈",
+    "url": "https://www.askamanager.org/2013/10/help-manager-is-giving-me-negative-feedback.html",
+    "type": "问答线索",
+    "verification": "仅检索摘要",
+    "scope": "正文访问受限；仅作为模糊反馈主题的检索线索。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S13",
+    "title": "人社部：招聘违法违规典型案例",
+    "url": "https://www.mohrss.gov.cn/wap/xw/rsxw/202605/t20260515_576244.html",
+    "type": "机构线索",
+    "verification": "仅检索摘要",
+    "scope": "仅核到检索摘要中招聘风险话题；具体法律结论须另查现行资料。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S14",
+    "title": "Reddit：职场中让贡献被看见的讨论",
+    "url": "https://www.reddit.com/r/DoubanGoosegroup/comments/yjacop/",
+    "type": "社区讨论",
+    "verification": "已读正文",
+    "scope": "个人职场经验，未独立核实，仅作为绩效与可见度话题线索。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S15",
+    "title": "Reddit：如何处理难协作的同事",
+    "url": "https://www.reddit.com/r/DoubanGoosegroup/comments/113b8lp/",
+    "type": "社区讨论",
+    "verification": "已读正文",
+    "scope": "个人求助及评论，未独立核实，仅参考协作问题类型。",
+    "accessed": "2026-10-24"
+  },
+  {
+    "id": "S16",
+    "title": "中国就业网：未经审批加班的争议案例",
+    "url": "https://chinajob.mohrss.gov.cn/h5/c/2022-01-11/338595.shtml",
+    "type": "公开案例",
+    "verification": "已读正文",
+    "scope": "2022年转载历史案例；具体报酬和程序须核查适用法律与事实。",
+    "accessed": "2026-10-24"
+  }
+]
