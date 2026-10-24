@@ -14,12 +14,14 @@ intro='# 人情世故指南\n\n151 个场景，18 个主题；覆盖 103 个职�
 def entry(c):
  out=f"## {c['id']} · {c['title']}\n\n"
  for label,k in [('情境','context'),('开口之前','check'),('可以这样说','say'),('对方说','push'),('下一句','reply'),('接下来做什么','action'),('判断边界','limit')]:out+=f"**{label}**：{c[k]}\n\n"
+ j=c['usage_judgment']
+ out+=f"**使用判断 · {j['level']} {j['label']}**：{j['reason']}\n\n"
  out+='**依据**：'+('资料启发；场景与话术为独立编写。 '+ '；'.join(f"[{s} {sm[s]['title']}]({sm[s]['url']})（{sm[s]['verification']}）" for s in c['sources']) if c['sources'] else '原创建议，未声称对应某个真实事件。')+'\n\n'
  return out
 source_text='# 来源与编写说明\n\n核查日期：2026-10-24。这里区分机构资料、公开案例、个人讨论和只读到检索摘要的线索。个人叙述未独立核实；检索摘要不能视为已读正文。每条的来源是选题或原则依据，全部话术、人物和情境细节均为独立编写，不是逐案采访记录，也不代表来源作者赞同本文。\n\n未收录或再分发 HowToGetAlong 正文、下载包或其他第三方全文。该项目的发现是本项目选题起点：https://github.com/kkk-bot/HowToGetAlong 。本项目内容与代码独立制作。\n\n'
 for s in sources:source_text+=f"## {s['id']} · {s['title']}\n\n- 链接：{s['url']}\n- 类型：{s['type']}\n- 核查：{s['verification']}\n- 使用范围：{s['scope']}\n\n"
 (R/'SOURCES.md').write_text(source_text)
-groups=list(dict.fromkeys(c['group'] for c in cases));guide=intro
+groups=list(dict.fromkeys(c['group'] for c in cases));guide=intro+'使用判断：A 可优先参考，B 先确认条件，C 慎重处理。它区分适用条件与误用风险，不表示用户投票、成功率或研究证据等级。\n\n'
 skill=R/'skills/social-conversation';refs=skill/'references';refs.mkdir(parents=True,exist_ok=True)
 index='# 场景目录\n\n按用户问题选择最相关的一个主题文件，不必一次读完。所有话术需要根据用户真实职责与目标调整。\n\n'
 for i,g in enumerate(groups,1):
@@ -45,6 +47,8 @@ description: 处理朋友往来、亲戚家庭、借还钱、聚会随礼、邻�
 5. 用户纠正事实后重新判断。已承诺值班、紧急安全事件、反复侵占成果等信息可能改变方案。话术不能保证对方满意。
 
 ## 事实与边界
+
+- A/B/C 使用判断对应使用条件和误用风险，不是调查认可率、成功率或研究证据等级。A 可优先参考，B 先确认条件，C 慎重处理；根据用户补充事实重新判断，不机械套等级。
 
 - “资料启发”只表示问题类型或一般原则有来源；“原创建议”没有对应的真实事件声明。所有场景细节和话术均独立编写。不要伪造原作者引用、真实案例结果、研究结论或成功率。
 - 检索摘要不是已读正文；社区帖子不是已核实事实。不得把本指南当作劳动法资料库。国外机构原则不能当成中国法律。

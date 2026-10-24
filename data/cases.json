@@ -16,7 +16,12 @@
       "S16"
     ],
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "未约定值班与已经承诺待命，处理方式不同。"
+    }
   },
   {
     "group": "成果与责任",
@@ -33,7 +38,12 @@
       "S10"
     ],
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核实署名与分工；公开纠正可能增加关系成本。"
+    }
   },
   {
     "group": "饭局与关系",
@@ -48,7 +58,12 @@
     "id": "03",
     "sources": [],
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "拒绝饮酒可以明确；被强迫或威胁时优先安全离场。"
+    }
   },
   {
     "group": "加班与边界",
@@ -65,7 +80,12 @@
       "S01"
     ],
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先核对值班、职责、排期与已经作出的承诺。"
+    }
   },
   {
     "group": "成果与责任",
@@ -82,7 +102,12 @@
       "S15"
     ],
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核实实际分工与记录，再选择私下或公开说明。"
+    }
   },
   {
     "group": "向上沟通",
@@ -99,7 +124,12 @@
       "S01"
     ],
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先确认决策权限、事实依据与对方的具体要求。"
+    }
   },
   {
     "group": "向上沟通",
@@ -114,7 +144,12 @@
     "id": "07",
     "sources": [],
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先确认决策权限、事实依据与对方的具体要求。"
+    }
   },
   {
     "group": "绩效与回报",
@@ -131,7 +166,12 @@
       "S02"
     ],
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需要结合评价标准、真实贡献与可用资源协商。"
+    }
   },
   {
     "group": "绩效与回报",
@@ -149,7 +189,12 @@
       "S02"
     ],
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需要结合评价标准、真实贡献与可用资源协商。"
+    }
   },
   {
     "group": "同事与协作",
@@ -164,7 +209,12 @@
     "id": "10",
     "sources": [],
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先说明具体事实，再约定清楚的协作动作。"
+    }
   },
   {
     "group": "同事与协作",
@@ -179,7 +229,12 @@
     "id": "11",
     "sources": [],
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先说明具体事实，再约定清楚的协作动作。"
+    }
   },
   {
     "group": "饭局与关系",
@@ -194,7 +249,12 @@
     "id": "12",
     "sources": [],
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "普通小失误及时道歉即可；造成损失需另行补救。"
+    }
   },
   {
     "group": "加班与边界",
@@ -211,7 +271,12 @@
     ],
     "id": "13",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核对值班、职责、排期与已经作出的承诺。"
+    }
   },
   {
     "group": "加班与边界",
@@ -228,7 +293,12 @@
     ],
     "id": "14",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核对值班、职责、排期与已经作出的承诺。"
+    }
   },
   {
     "group": "加班与边界",
@@ -245,7 +315,12 @@
     ],
     "id": "15",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核对值班、职责、排期与已经作出的承诺。"
+    }
   },
   {
     "group": "加班与边界",
@@ -262,7 +337,12 @@
     ],
     "id": "16",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核对值班、职责、排期与已经作出的承诺。"
+    }
   },
   {
     "group": "加班与边界",
@@ -277,7 +357,12 @@
     "sources": [],
     "id": "17",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核对值班、职责、排期与已经作出的承诺。"
+    }
   },
   {
     "group": "加班与边界",
@@ -294,7 +379,12 @@
     ],
     "id": "18",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核对值班、职责、排期与已经作出的承诺。"
+    }
   },
   {
     "group": "加班与边界",
@@ -309,7 +399,12 @@
     "sources": [],
     "id": "19",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先核对值班、职责、排期与已经作出的承诺。"
+    }
   },
   {
     "group": "成果与责任",
@@ -326,7 +421,12 @@
     ],
     "id": "20",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核实实际分工与记录，再选择私下或公开说明。"
+    }
   },
   {
     "group": "成果与责任",
@@ -341,7 +441,12 @@
     "sources": [],
     "id": "21",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先核实实际分工与记录，再选择私下或公开说明。"
+    }
   },
   {
     "group": "成果与责任",
@@ -356,7 +461,12 @@
     "sources": [],
     "id": "22",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "签字可能产生实际责任，须先核验文件与授权。"
+    }
   },
   {
     "group": "成果与责任",
@@ -371,7 +481,12 @@
     "sources": [],
     "id": "23",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先核实实际分工与记录，再选择私下或公开说明。"
+    }
   },
   {
     "group": "成果与责任",
@@ -386,7 +501,12 @@
     "sources": [],
     "id": "24",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先核实实际分工与记录，再选择私下或公开说明。"
+    }
   },
   {
     "group": "成果与责任",
@@ -403,7 +523,12 @@
     ],
     "id": "25",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核实实际分工与记录，再选择私下或公开说明。"
+    }
   },
   {
     "group": "成果与责任",
@@ -418,7 +543,12 @@
     "sources": [],
     "id": "26",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核实实际分工与记录，再选择私下或公开说明。"
+    }
   },
   {
     "group": "向上沟通",
@@ -435,7 +565,12 @@
     ],
     "id": "27",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先确认决策权限、事实依据与对方的具体要求。"
+    }
   },
   {
     "group": "向上沟通",
@@ -452,7 +587,12 @@
     ],
     "id": "28",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先确认决策权限、事实依据与对方的具体要求。"
+    }
   },
   {
     "group": "向上沟通",
@@ -469,7 +609,12 @@
     ],
     "id": "29",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先确认决策权限、事实依据与对方的具体要求。"
+    }
   },
   {
     "group": "向上沟通",
@@ -484,7 +629,12 @@
     "sources": [],
     "id": "30",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先确认决策权限、事实依据与对方的具体要求。"
+    }
   },
   {
     "group": "向上沟通",
@@ -501,7 +651,12 @@
     ],
     "id": "31",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先确认决策权限、事实依据与对方的具体要求。"
+    }
   },
   {
     "group": "向上沟通",
@@ -518,7 +673,12 @@
     ],
     "id": "32",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先确认决策权限、事实依据与对方的具体要求。"
+    }
   },
   {
     "group": "向上沟通",
@@ -535,7 +695,12 @@
     ],
     "id": "33",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先确认决策权限、事实依据与对方的具体要求。"
+    }
   },
   {
     "group": "绩效与回报",
@@ -552,7 +717,12 @@
     ],
     "id": "34",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需要结合评价标准、真实贡献与可用资源协商。"
+    }
   },
   {
     "group": "绩效与回报",
@@ -569,7 +739,12 @@
     ],
     "id": "35",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需要结合评价标准、真实贡献与可用资源协商。"
+    }
   },
   {
     "group": "绩效与回报",
@@ -584,7 +759,12 @@
     "sources": [],
     "id": "36",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需要结合评价标准、真实贡献与可用资源协商。"
+    }
   },
   {
     "group": "绩效与回报",
@@ -601,7 +781,12 @@
     ],
     "id": "37",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需要结合评价标准、真实贡献与可用资源协商。"
+    }
   },
   {
     "group": "绩效与回报",
@@ -618,7 +803,12 @@
     ],
     "id": "38",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需要结合评价标准、真实贡献与可用资源协商。"
+    }
   },
   {
     "group": "绩效与回报",
@@ -633,7 +823,12 @@
     "sources": [],
     "id": "39",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需要结合评价标准、真实贡献与可用资源协商。"
+    }
   },
   {
     "group": "绩效与回报",
@@ -650,7 +845,12 @@
     ],
     "id": "40",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需要结合评价标准、真实贡献与可用资源协商。"
+    }
   },
   {
     "group": "同事与协作",
@@ -665,7 +865,12 @@
     "sources": [],
     "id": "41",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "使用本人账号的权限不能以口头同意转给他人。"
+    }
   },
   {
     "group": "同事与协作",
@@ -680,7 +885,12 @@
     "sources": [],
     "id": "42",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先说明具体事实，再约定清楚的协作动作。"
+    }
   },
   {
     "group": "同事与协作",
@@ -697,7 +907,12 @@
     ],
     "id": "43",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先说明具体事实，再约定清楚的协作动作。"
+    }
   },
   {
     "group": "同事与协作",
@@ -714,7 +929,12 @@
     ],
     "id": "44",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先说明具体事实，再约定清楚的协作动作。"
+    }
   },
   {
     "group": "同事与协作",
@@ -729,7 +949,12 @@
     "sources": [],
     "id": "45",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先说明具体事实，再约定清楚的协作动作。"
+    }
   },
   {
     "group": "同事与协作",
@@ -744,7 +969,12 @@
     "sources": [],
     "id": "46",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先说明具体事实，再约定清楚的协作动作。"
+    }
   },
   {
     "group": "同事与协作",
@@ -759,7 +989,12 @@
     "sources": [],
     "id": "47",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先说明具体事实，再约定清楚的协作动作。"
+    }
   },
   {
     "group": "同事与协作",
@@ -774,7 +1009,12 @@
     "sources": [],
     "id": "48",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先说明具体事实，再约定清楚的协作动作。"
+    }
   },
   {
     "group": "饭局与关系",
@@ -789,7 +1029,12 @@
     "sources": [],
     "id": "49",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "表达自己的选择，别为缓和气氛增加额外承诺。"
+    }
   },
   {
     "group": "饭局与关系",
@@ -804,7 +1049,12 @@
     "sources": [],
     "id": "50",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "表达自己的选择，别为缓和气氛增加额外承诺。"
+    }
   },
   {
     "group": "饭局与关系",
@@ -819,7 +1069,12 @@
     "sources": [],
     "id": "51",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "表达自己的选择，别为缓和气氛增加额外承诺。"
+    }
   },
   {
     "group": "饭局与关系",
@@ -834,7 +1089,12 @@
     "sources": [],
     "id": "52",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "涉及利益冲突或违规要求，按正式制度处理。"
+    }
   },
   {
     "group": "饭局与关系",
@@ -849,7 +1109,12 @@
     "sources": [],
     "id": "53",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "表达自己的选择，别为缓和气氛增加额外承诺。"
+    }
   },
   {
     "group": "饭局与关系",
@@ -864,7 +1129,12 @@
     "sources": [],
     "id": "54",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "表达自己的选择，别为缓和气氛增加额外承诺。"
+    }
   },
   {
     "group": "饭局与关系",
@@ -879,7 +1149,12 @@
     "sources": [],
     "id": "55",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "涉及醉酒与交通安全，不靠客套话承担驾驶责任。"
+    }
   },
   {
     "group": "求职与入职",
@@ -896,7 +1171,12 @@
     ],
     "id": "56",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "岗位、合同与权益问题，需核对书面约定及适用规则。"
+    }
   },
   {
     "group": "求职与入职",
@@ -913,7 +1193,12 @@
     ],
     "id": "57",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "岗位、合同与权益问题，需核对书面约定及适用规则。"
+    }
   },
   {
     "group": "求职与入职",
@@ -928,7 +1213,12 @@
     "sources": [],
     "id": "58",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "岗位、合同与权益问题，需核对书面约定及适用规则。"
+    }
   },
   {
     "group": "求职与入职",
@@ -945,7 +1235,12 @@
     ],
     "id": "59",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "岗位、合同与权益问题，需核对书面约定及适用规则。"
+    }
   },
   {
     "group": "求职与入职",
@@ -962,7 +1257,12 @@
     ],
     "id": "60",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "岗位、合同与权益问题，需核对书面约定及适用规则。"
+    }
   },
   {
     "group": "求职与入职",
@@ -979,7 +1279,12 @@
     ],
     "id": "61",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "涉及收费与疑似欺诈，不继续付费来验证真伪。"
+    }
   },
   {
     "group": "求职与入职",
@@ -994,7 +1299,12 @@
     "sources": [],
     "id": "62",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "岗位、合同与权益问题，需核对书面约定及适用规则。"
+    }
   },
   {
     "group": "求职与入职",
@@ -1011,7 +1321,12 @@
     ],
     "id": "63",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "岗位、合同与权益问题，需核对书面约定及适用规则。"
+    }
   },
   {
     "group": "远程与会议",
@@ -1028,7 +1343,12 @@
     ],
     "id": "64",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先说明交付条件，避免答应无法保证的安排。"
+    }
   },
   {
     "group": "远程与会议",
@@ -1045,7 +1365,12 @@
     ],
     "id": "65",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先说明交付条件，避免答应无法保证的安排。"
+    }
   },
   {
     "group": "远程与会议",
@@ -1060,7 +1385,12 @@
     "sources": [],
     "id": "66",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先说明交付条件，避免答应无法保证的安排。"
+    }
   },
   {
     "group": "远程与会议",
@@ -1075,7 +1405,12 @@
     "sources": [],
     "id": "67",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先说明交付条件，避免答应无法保证的安排。"
+    }
   },
   {
     "group": "远程与会议",
@@ -1090,7 +1425,12 @@
     "sources": [],
     "id": "68",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先说明交付条件，避免答应无法保证的安排。"
+    }
   },
   {
     "group": "远程与会议",
@@ -1107,7 +1447,12 @@
     ],
     "id": "69",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先说明交付条件，避免答应无法保证的安排。"
+    }
   },
   {
     "group": "远程与会议",
@@ -1122,7 +1467,12 @@
     "sources": [],
     "id": "70",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先说明交付条件，避免答应无法保证的安排。"
+    }
   },
   {
     "group": "远程与会议",
@@ -1137,7 +1487,12 @@
     "sources": [],
     "id": "71",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先说明交付条件，避免答应无法保证的安排。"
+    }
   },
   {
     "group": "客户与对外",
@@ -1152,7 +1507,12 @@
     "sources": [],
     "id": "72",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核对合同、审批权限及信息使用授权。"
+    }
   },
   {
     "group": "客户与对外",
@@ -1167,7 +1527,12 @@
     "sources": [],
     "id": "73",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核对合同、审批权限及信息使用授权。"
+    }
   },
   {
     "group": "客户与对外",
@@ -1182,7 +1547,12 @@
     "sources": [],
     "id": "74",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先核对合同、审批权限及信息使用授权。"
+    }
   },
   {
     "group": "客户与对外",
@@ -1199,7 +1569,12 @@
     ],
     "id": "75",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先核对合同、审批权限及信息使用授权。"
+    }
   },
   {
     "group": "客户与对外",
@@ -1214,7 +1589,12 @@
     "sources": [],
     "id": "76",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先核对合同、审批权限及信息使用授权。"
+    }
   },
   {
     "group": "客户与对外",
@@ -1229,7 +1609,12 @@
     "sources": [],
     "id": "77",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先核对合同、审批权限及信息使用授权。"
+    }
   },
   {
     "group": "客户与对外",
@@ -1244,7 +1629,12 @@
     "sources": [],
     "id": "78",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先核对合同、审批权限及信息使用授权。"
+    }
   },
   {
     "group": "客户与对外",
@@ -1259,7 +1649,12 @@
     "sources": [],
     "id": "79",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先核对合同、审批权限及信息使用授权。"
+    }
   },
   {
     "group": "管理与带人",
@@ -1276,7 +1671,12 @@
     ],
     "id": "80",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "反馈与授权应具体；涉及员工权益时须核对制度。"
+    }
   },
   {
     "group": "管理与带人",
@@ -1293,7 +1693,12 @@
     ],
     "id": "81",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "反馈与授权应具体；涉及员工权益时须核对制度。"
+    }
   },
   {
     "group": "管理与带人",
@@ -1308,7 +1713,12 @@
     "sources": [],
     "id": "82",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "反馈与授权应具体；涉及员工权益时须核对制度。"
+    }
   },
   {
     "group": "管理与带人",
@@ -1323,7 +1733,12 @@
     "sources": [],
     "id": "83",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "反馈与授权应具体；涉及员工权益时须核对制度。"
+    }
   },
   {
     "group": "管理与带人",
@@ -1340,7 +1755,12 @@
     ],
     "id": "84",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "反馈与授权应具体；涉及员工权益时须核对制度。"
+    }
   },
   {
     "group": "管理与带人",
@@ -1358,7 +1778,12 @@
     ],
     "id": "85",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "涉及骚扰与人身安全，按保护与正式处理流程回应。"
+    }
   },
   {
     "group": "管理与带人",
@@ -1375,7 +1800,12 @@
     ],
     "id": "86",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "反馈与授权应具体；涉及员工权益时须核对制度。"
+    }
   },
   {
     "group": "管理与带人",
@@ -1392,7 +1822,12 @@
     ],
     "id": "87",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "反馈与授权应具体；涉及员工权益时须核对制度。"
+    }
   },
   {
     "group": "尊重与安全",
@@ -1409,7 +1844,12 @@
     ],
     "id": "88",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "持续威胁或安全问题，应优先获得支持并保留必要记录。"
+    }
   },
   {
     "group": "尊重与安全",
@@ -1426,7 +1866,12 @@
     ],
     "id": "89",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "持续威胁或安全问题，应优先获得支持并保留必要记录。"
+    }
   },
   {
     "group": "尊重与安全",
@@ -1443,7 +1888,12 @@
     ],
     "id": "90",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "身体边界被侵犯时，优先安全与适当支持。"
+    }
   },
   {
     "group": "尊重与安全",
@@ -1460,7 +1910,12 @@
     ],
     "id": "91",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "持续威胁或安全问题，应优先获得支持并保留必要记录。"
+    }
   },
   {
     "group": "尊重与安全",
@@ -1475,7 +1930,12 @@
     "sources": [],
     "id": "92",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先确认风险与安全条件，不能只靠话术继续作业。"
+    }
   },
   {
     "group": "尊重与安全",
@@ -1490,7 +1950,12 @@
     "sources": [],
     "id": "93",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先核实资料授权与工具规则；去掉姓名不等于可上传。"
+    }
   },
   {
     "group": "尊重与安全",
@@ -1505,7 +1970,12 @@
     "sources": [],
     "id": "94",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "按事件流程报告，不销毁证据或公开敏感资料。"
+    }
   },
   {
     "group": "尊重与安全",
@@ -1522,7 +1992,12 @@
     ],
     "id": "95",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "压力影响生活时，沟通不能替代健康评估与支持。"
+    }
   },
   {
     "group": "离职与交接",
@@ -1539,7 +2014,12 @@
     ],
     "id": "96",
     "basis": "资料启发",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "需结合通知、交接、保密约定及适用规则处理。"
+    }
   },
   {
     "group": "离职与交接",
@@ -1554,7 +2034,12 @@
     "sources": [],
     "id": "97",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需结合通知、交接、保密约定及适用规则处理。"
+    }
   },
   {
     "group": "离职与交接",
@@ -1569,7 +2054,12 @@
     "sources": [],
     "id": "98",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需结合通知、交接、保密约定及适用规则处理。"
+    }
   },
   {
     "group": "离职与交接",
@@ -1584,7 +2074,12 @@
     "sources": [],
     "id": "99",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需结合通知、交接、保密约定及适用规则处理。"
+    }
   },
   {
     "group": "离职与交接",
@@ -1599,7 +2094,12 @@
     "sources": [],
     "id": "100",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需结合通知、交接、保密约定及适用规则处理。"
+    }
   },
   {
     "group": "离职与交接",
@@ -1614,7 +2114,12 @@
     "sources": [],
     "id": "101",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "文件没看懂先不签，具体法律后果须专业核验。"
+    }
   },
   {
     "group": "离职与交接",
@@ -1629,7 +2134,12 @@
     "sources": [],
     "id": "102",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "需结合通知、交接、保密约定及适用规则处理。"
+    }
   },
   {
     "group": "离职与交接",
@@ -1644,7 +2154,12 @@
     "sources": [],
     "id": "103",
     "basis": "原创建议",
-    "domain": "职场"
+    "domain": "职场",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "需结合通知、交接、保密约定及适用规则处理。"
+    }
   },
   {
     "group": "朋友往来",
@@ -1661,7 +2176,12 @@
     ],
     "basis": "资料启发",
     "id": "104",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "尚未答应的邀请可以婉拒，不必再承诺下一次。"
+    }
   },
   {
     "group": "朋友往来",
@@ -1676,7 +2196,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "105",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "把自己的安排说明白，不以编理由换取对方接受。"
+    }
   },
   {
     "group": "朋友往来",
@@ -1691,7 +2216,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "106",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "把自己的安排说明白，不以编理由换取对方接受。"
+    }
   },
   {
     "group": "朋友往来",
@@ -1706,7 +2236,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "107",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "把自己的安排说明白，不以编理由换取对方接受。"
+    }
   },
   {
     "group": "朋友往来",
@@ -1721,7 +2256,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "108",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "把自己的安排说明白，不以编理由换取对方接受。"
+    }
   },
   {
     "group": "朋友往来",
@@ -1736,7 +2276,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "109",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "把自己的安排说明白，不以编理由换取对方接受。"
+    }
   },
   {
     "group": "朋友往来",
@@ -1751,7 +2296,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "110",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "把自己的安排说明白，不以编理由换取对方接受。"
+    }
   },
   {
     "group": "朋友往来",
@@ -1766,7 +2316,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "111",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "把自己的安排说明白，不以编理由换取对方接受。"
+    }
   },
   {
     "group": "亲戚与家庭",
@@ -1781,7 +2336,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "112",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "表达愿意分享的范围，留意已有责任和关系压力。"
+    }
   },
   {
     "group": "亲戚与家庭",
@@ -1796,7 +2356,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "113",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "表达愿意分享的范围，留意已有责任和关系压力。"
+    }
   },
   {
     "group": "亲戚与家庭",
@@ -1811,7 +2376,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "114",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "表达愿意分享的范围，留意已有责任和关系压力。"
+    }
   },
   {
     "group": "亲戚与家庭",
@@ -1826,7 +2396,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "115",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "表达愿意分享的范围，留意已有责任和关系压力。"
+    }
   },
   {
     "group": "亲戚与家庭",
@@ -1841,7 +2416,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "116",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "若存在控制或威胁，先考虑安全与外部支持。"
+    }
   },
   {
     "group": "亲戚与家庭",
@@ -1856,7 +2436,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "117",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "必须保证必要照护不断档，再协商分工与支持。"
+    }
   },
   {
     "group": "亲戚与家庭",
@@ -1871,7 +2456,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "118",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "表达愿意分享的范围，留意已有责任和关系压力。"
+    }
   },
   {
     "group": "亲戚与家庭",
@@ -1886,7 +2476,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "119",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "表达愿意分享的范围，留意已有责任和关系压力。"
+    }
   },
   {
     "group": "金钱与借还",
@@ -1903,7 +2498,12 @@
     ],
     "basis": "资料启发",
     "id": "120",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "尚未作出的借款承诺可以拒绝，不必编造缺钱理由。"
+    }
   },
   {
     "group": "金钱与借还",
@@ -1920,7 +2520,12 @@
     ],
     "basis": "资料启发",
     "id": "121",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先核对欠款事实与记录；争议升级须正规处理。"
+    }
   },
   {
     "group": "金钱与借还",
@@ -1937,7 +2542,12 @@
     ],
     "basis": "资料启发",
     "id": "122",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "延期需要对方同意，不能把自己的计划当成新约定。"
+    }
   },
   {
     "group": "金钱与借还",
@@ -1952,7 +2562,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "123",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "钱款、责任与已有承诺要分开确认。"
+    }
   },
   {
     "group": "金钱与借还",
@@ -1967,7 +2582,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "124",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "担保可能形成责任，具体条款需要专业判断。"
+    }
   },
   {
     "group": "金钱与借还",
@@ -1984,7 +2604,12 @@
     ],
     "basis": "资料启发",
     "id": "125",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先区分自愿支持、已有约定与必要照护责任。"
+    }
   },
   {
     "group": "金钱与借还",
@@ -1999,7 +2624,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "126",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "收礼与承诺办事分开；涉及职务利益须另行核验。"
+    }
   },
   {
     "group": "金钱与借还",
@@ -2014,7 +2644,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "127",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "不据此判断投资收益；先核验项目与风险。"
+    }
   },
   {
     "group": "邻里与公共空间",
@@ -2029,7 +2664,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "128",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先就具体行为沟通；出现威胁时停止单独争执。"
+    }
   },
   {
     "group": "邻里与公共空间",
@@ -2044,7 +2684,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "129",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先就具体行为沟通；出现威胁时停止单独争执。"
+    }
   },
   {
     "group": "邻里与公共空间",
@@ -2059,7 +2704,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "130",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先就具体行为沟通；出现威胁时停止单独争执。"
+    }
   },
   {
     "group": "邻里与公共空间",
@@ -2074,7 +2724,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "131",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先就具体行为沟通；出现威胁时停止单独争执。"
+    }
   },
   {
     "group": "邻里与公共空间",
@@ -2089,7 +2744,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "132",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先就具体行为沟通；出现威胁时停止单独争执。"
+    }
   },
   {
     "group": "邻里与公共空间",
@@ -2104,7 +2764,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "133",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "先就具体行为沟通；出现威胁时停止单独争执。"
+    }
   },
   {
     "group": "邻里与公共空间",
@@ -2119,7 +2784,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "134",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "车辆使用涉及实际责任，不以关系压力代替判断。"
+    }
   },
   {
     "group": "邻里与公共空间",
@@ -2134,7 +2804,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "135",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "先就具体行为沟通；出现威胁时停止单独争执。"
+    }
   },
   {
     "group": "聚会与礼尚往来",
@@ -2151,7 +2826,12 @@
     ],
     "basis": "资料启发",
     "id": "136",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "提前说明安排，区分心意、预算与已经答应的责任。"
+    }
   },
   {
     "group": "聚会与礼尚往来",
@@ -2166,7 +2846,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "137",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "提前说明安排，区分心意、预算与已经答应的责任。"
+    }
   },
   {
     "group": "聚会与礼尚往来",
@@ -2181,7 +2866,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "138",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "提前说明安排，区分心意、预算与已经答应的责任。"
+    }
   },
   {
     "group": "聚会与礼尚往来",
@@ -2196,7 +2886,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "139",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "提前说明安排，区分心意、预算与已经答应的责任。"
+    }
   },
   {
     "group": "聚会与礼尚往来",
@@ -2211,7 +2906,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "140",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "提前说明安排，区分心意、预算与已经答应的责任。"
+    }
   },
   {
     "group": "聚会与礼尚往来",
@@ -2226,7 +2926,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "141",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "提前说明安排，区分心意、预算与已经答应的责任。"
+    }
   },
   {
     "group": "聚会与礼尚往来",
@@ -2241,7 +2946,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "142",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "提前说明安排，区分心意、预算与已经答应的责任。"
+    }
   },
   {
     "group": "聚会与礼尚往来",
@@ -2258,7 +2968,12 @@
     ],
     "basis": "资料启发",
     "id": "143",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "提前说明安排，区分心意、预算与已经答应的责任。"
+    }
   },
   {
     "group": "线上社交与隐私",
@@ -2273,7 +2988,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "144",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "可提出删除请求；无法保证全部转发副本消失。"
+    }
   },
   {
     "group": "线上社交与隐私",
@@ -2288,7 +3008,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "145",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先明确联系方式的分享范围，不公开号码反击。"
+    }
   },
   {
     "group": "线上社交与隐私",
@@ -2303,7 +3028,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "146",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "控制自己公开的信息，不用曝光隐私回应冲突。"
+    }
   },
   {
     "group": "线上社交与隐私",
@@ -2318,7 +3048,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "147",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "控制自己公开的信息，不用曝光隐私回应冲突。"
+    }
   },
   {
     "group": "线上社交与隐私",
@@ -2333,7 +3068,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "148",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "先停止继续传播，再通过合适渠道处理隐私问题。"
+    }
   },
   {
     "group": "线上社交与隐私",
@@ -2348,7 +3088,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "149",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "C",
+      "label": "慎重处理",
+      "reason": "涉及健康、法律或财务的消息，先核对当前权威来源。"
+    }
   },
   {
     "group": "线上社交与隐私",
@@ -2363,7 +3108,12 @@
     "sources": [],
     "basis": "原创建议",
     "id": "150",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "A",
+      "label": "可优先参考",
+      "reason": "控制自己公开的信息，不用曝光隐私回应冲突。"
+    }
   },
   {
     "group": "线上社交与隐私",
@@ -2378,6 +3128,11 @@
     "sources": [],
     "basis": "原创建议",
     "id": "151",
-    "domain": "生活"
+    "domain": "生活",
+    "usage_judgment": {
+      "level": "B",
+      "label": "先确认条件",
+      "reason": "控制自己公开的信息，不用曝光隐私回应冲突。"
+    }
   }
 ]

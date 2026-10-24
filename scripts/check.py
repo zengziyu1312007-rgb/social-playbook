@@ -11,6 +11,8 @@ html=(R/'index.html').read_text()
 assert '__DATA__' not in html and '__SOURCES__' not in html
 assert '<b>151</b>个场景' in html
 for c in cases:
+ assert c['usage_judgment']['level'] in {'A','B','C'}
+ assert c['usage_judgment']['reason'].strip()
  assert c['title'] in html and c['title'] in (R/'GUIDE.md').read_text()
 for href in re.findall(r'href="([^"#]+)"',html.split('<script>')[0]):
  if not href.startswith(('http','${')): assert (R/href).is_file(),href
