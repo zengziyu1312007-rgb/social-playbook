@@ -115,3 +115,24 @@
 - 类型：公开案例
 - 核查：已读正文
 - 使用范围：2022年转载历史案例；具体报酬和程序须核查适用法律与事实。
+
+## S17 · CFPB：亲友之间借钱与提供支持
+
+- 链接：https://www.consumerfinance.gov/consumer-tools/educator-tool/adult-financial-education/tips-for-managing-family-lending-and-borrowing/
+- 类型：机构资料
+- 核查：已读正文
+- 使用范围：参考先谈清预期、区分借款与赠与、记录双方安排的沟通原则；不套用美国税务规则，具体话术与场景独立编写。
+
+## S18 · Emily Post：及时回应聚会邀请
+
+- 链接：https://emilypost.com/advice/the-continuing-importance-of-the-rsvp
+- 类型：礼仪资料
+- 核查：已读正文
+- 使用范围：只参考及时明确答复、拒绝时不必详述私事的原则；不把特定文化礼仪当成通用义务。
+
+## S19 · Reddit：拒绝邀请后，如何面对继续追问
+
+- 链接：https://www.reddit.com/r/socialskills/comments/p636wc/advice_on_declining_invitations_politely/
+- 类型：社区讨论
+- 核查：已读正文
+- 使用范围：未经独立核实的个人叙述，仅作为拒绝邀请与保护私人理由的选题线索，不照搬对话。
